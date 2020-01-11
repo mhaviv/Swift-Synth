@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  SynthView.swift
 //  Swift Synth
 //
 //  Created by Michael Haviv on 1/9/20.
@@ -8,14 +8,14 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct SynthView: View {
     var body: some View {
         Text("Hello, World!")
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct SynthView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        SynthView()
     }
 }
